@@ -1,0 +1,553 @@
+[ 3654.970776] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 3655.529626] CloudArmorLog: /bin/date 1393480861
+[ 3655.529641] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 3661.623879] CloudArmorLog: ------------------------finish_resize---------------------------------
+[ 3663.472219] CloudArmorLog: /usr/bin/qemu-nbd 1393480868
+[ 3663.498604] CloudArmorLog: /sbin/kpartx 1393480868
+[ 3663.513949] CloudArmorLog: /usr/bin/qemu-nbd 1393480868
+[ 3663.754203] CloudArmorLog: /sbin/ip 1393480868
+[ 3663.765200] CloudArmorLog: /sbin/brctl 1393480868
+[ 3663.774638] CloudArmorLog: /sbin/ip 1393480868
+[ 3663.784205] CloudArmorLog: /sbin/ip 1393480868
+[ 3663.999532] CloudArmorLog: /sbin/iptables-save 1393480868
+[ 3664.012304] CloudArmorLog: /sbin/iptables-restore 1393480868
+[ 3664.031464] CloudArmorLog: /sbin/iptables-save 1393480868
+[ 3664.043920] CloudArmorLog: /sbin/iptables-restore 1393480868
+[ 3665.530351] CloudArmorLog: /usr/bin/tee 1393480868
+[ 3665.950291] CloudArmorLog: /bin/date 1393480868
+[ 3665.950298] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 3681.890011] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 3685.998650] CloudArmorLog: /sbin/iptables-save 1393480888
+[ 3686.012533] CloudArmorLog: /sbin/iptables-restore 1393480888
+[ 3686.699016] CloudArmorLog: /bin/date 1393480888
+[ 3686.699022] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 3686.710957] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 3687.052123] CloudArmorLog: /bin/date 1393480893
+[ 3687.052129] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 3687.063584] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 3687.399632] CloudArmorLog: /bin/date 1393480893
+[ 3687.399638] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 3687.411133] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 3687.425852] CloudArmorLog: /bin/date 1393480894
+[ 3687.425858] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 3687.436883] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 3687.451340] CloudArmorLog: /bin/date 1393480894
+[ 3687.451344] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 3939.576190] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 3940.091589] CloudArmorLog: /bin/date 1393481146
+[ 3940.091604] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 3946.108036] CloudArmorLog: ------------------------finish_resize---------------------------------
+[ 3947.912185] CloudArmorLog: /usr/bin/qemu-nbd 1393481153
+[ 3947.938646] CloudArmorLog: /sbin/kpartx 1393481153
+[ 3947.953572] CloudArmorLog: /usr/bin/qemu-nbd 1393481153
+[ 3948.194636] CloudArmorLog: /sbin/ip 1393481153
+[ 3948.205630] CloudArmorLog: /sbin/brctl 1393481153
+[ 3948.215141] CloudArmorLog: /sbin/ip 1393481153
+[ 3948.224784] CloudArmorLog: /sbin/ip 1393481153
+[ 3948.433586] CloudArmorLog: /sbin/iptables-save 1393481153
+[ 3948.446463] CloudArmorLog: /sbin/iptables-restore 1393481153
+[ 3948.465628] CloudArmorLog: /sbin/iptables-save 1393481153
+[ 3948.478125] CloudArmorLog: /sbin/iptables-restore 1393481153
+[ 3949.957287] CloudArmorLog: /usr/bin/tee 1393481153
+[ 3950.393315] CloudArmorLog: /bin/date 1393481153
+[ 3950.393322] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4016.382196] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4016.518469] CloudArmorLog: /sbin/iptables-save 1393481223
+[ 4016.531758] CloudArmorLog: /sbin/iptables-restore 1393481223
+[ 4016.547967] CloudArmorLog: /bin/date 1393481223
+[ 4016.547973] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4022.129437] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4022.259043] CloudArmorLog: /sbin/iptables-save 1393481229
+[ 4022.272283] CloudArmorLog: /sbin/iptables-restore 1393481229
+[ 4022.289747] CloudArmorLog: /bin/date 1393481229
+[ 4022.289754] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4025.184725] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4025.337091] CloudArmorLog: /sbin/iptables-save 1393481232
+[ 4025.350215] CloudArmorLog: /sbin/iptables-restore 1393481232
+[ 4025.366365] CloudArmorLog: /bin/date 1393481232
+[ 4025.366371] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4032.931201] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4033.052817] CloudArmorLog: /sbin/iptables-save 1393481240
+[ 4033.066195] CloudArmorLog: /sbin/iptables-restore 1393481240
+[ 4033.082469] CloudArmorLog: /bin/date 1393481240
+[ 4033.082475] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4034.371232] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4034.588088] CloudArmorLog: /sbin/iptables-save 1393481241
+[ 4034.603701] CloudArmorLog: /sbin/iptables-restore 1393481241
+[ 4034.619497] CloudArmorLog: /bin/date 1393481241
+[ 4034.619502] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4053.325890] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 4053.834820] CloudArmorLog: /bin/date 1393481260
+[ 4053.834835] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4105.878651] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4106.002636] CloudArmorLog: /sbin/iptables-save 1393481313
+[ 4106.015962] CloudArmorLog: /sbin/iptables-restore 1393481313
+[ 4106.032147] CloudArmorLog: /bin/date 1393481313
+[ 4106.032152] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4109.087024] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4109.222421] CloudArmorLog: /sbin/iptables-save 1393481316
+[ 4109.235757] CloudArmorLog: /sbin/iptables-restore 1393481316
+[ 4109.251910] CloudArmorLog: /bin/date 1393481316
+[ 4109.251915] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4111.922814] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4112.086312] CloudArmorLog: /sbin/iptables-save 1393481319
+[ 4112.099563] CloudArmorLog: /sbin/iptables-restore 1393481319
+[ 4112.115788] CloudArmorLog: /bin/date 1393481319
+[ 4112.115793] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4126.922530] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 4127.438000] CloudArmorLog: /bin/date 1393481334
+[ 4127.438015] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4133.395905] CloudArmorLog: ------------------------finish_resize---------------------------------
+[ 4135.260217] CloudArmorLog: /usr/bin/qemu-nbd 1393481340
+[ 4135.286680] CloudArmorLog: /sbin/kpartx 1393481340
+[ 4135.302767] CloudArmorLog: /usr/bin/qemu-nbd 1393481340
+[ 4135.560199] CloudArmorLog: /sbin/ip 1393481340
+[ 4135.571473] CloudArmorLog: /sbin/brctl 1393481340
+[ 4135.581374] CloudArmorLog: /sbin/ip 1393481340
+[ 4135.592704] CloudArmorLog: /sbin/ip 1393481340
+[ 4135.805541] CloudArmorLog: /sbin/iptables-save 1393481340
+[ 4135.818798] CloudArmorLog: /sbin/iptables-restore 1393481340
+[ 4135.838485] CloudArmorLog: /sbin/iptables-save 1393481340
+[ 4135.851372] CloudArmorLog: /sbin/iptables-restore 1393481340
+[ 4137.296358] CloudArmorLog: /usr/bin/tee 1393481340
+[ 4137.784089] CloudArmorLog: /bin/date 1393481340
+[ 4137.784095] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4191.201938] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4191.337117] CloudArmorLog: /sbin/iptables-save 1393481398
+[ 4191.350873] CloudArmorLog: /sbin/iptables-restore 1393481398
+[ 4191.367381] CloudArmorLog: /bin/date 1393481398
+[ 4191.367387] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4191.379876] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4191.505234] CloudArmorLog: /sbin/iptables-save 1393481398
+[ 4191.518277] CloudArmorLog: /sbin/iptables-restore 1393481398
+[ 4191.534464] CloudArmorLog: /bin/date 1393481398
+[ 4191.534470] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4196.976994] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4197.137749] CloudArmorLog: /sbin/iptables-save 1393481404
+[ 4197.151392] CloudArmorLog: /sbin/iptables-restore 1393481404
+[ 4197.167891] CloudArmorLog: /bin/date 1393481404
+[ 4197.167897] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4197.179385] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4197.305861] CloudArmorLog: /sbin/iptables-save 1393481404
+[ 4197.320129] CloudArmorLog: /sbin/iptables-restore 1393481404
+[ 4197.336812] CloudArmorLog: /bin/date 1393481404
+[ 4197.336817] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4200.004269] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4200.139998] CloudArmorLog: /sbin/iptables-save 1393481407
+[ 4200.153566] CloudArmorLog: /sbin/iptables-restore 1393481407
+[ 4200.169888] CloudArmorLog: /bin/date 1393481407
+[ 4200.169894] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4200.181104] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4200.325311] CloudArmorLog: /sbin/iptables-save 1393481407
+[ 4200.338896] CloudArmorLog: /sbin/iptables-restore 1393481407
+[ 4200.355371] CloudArmorLog: /bin/date 1393481407
+[ 4200.355377] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4222.364874] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4222.495467] CloudArmorLog: /sbin/iptables-save 1393481429
+[ 4222.510351] CloudArmorLog: /sbin/iptables-restore 1393481429
+[ 4222.527176] CloudArmorLog: /bin/date 1393481429
+[ 4222.527182] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4222.538721] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4222.673914] CloudArmorLog: /sbin/iptables-save 1393481429
+[ 4222.687128] CloudArmorLog: /sbin/iptables-restore 1393481429
+[ 4222.703409] CloudArmorLog: /bin/date 1393481429
+[ 4222.703414] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4223.698723] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4223.858711] CloudArmorLog: /sbin/iptables-save 1393481431
+[ 4223.872154] CloudArmorLog: /sbin/iptables-restore 1393481431
+[ 4223.888271] CloudArmorLog: /bin/date 1393481431
+[ 4223.888277] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4223.899595] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4224.079058] CloudArmorLog: /sbin/iptables-save 1393481431
+[ 4224.092051] CloudArmorLog: /sbin/iptables-restore 1393481431
+[ 4224.108161] CloudArmorLog: /bin/date 1393481431
+[ 4224.108166] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4246.509243] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 4247.032290] CloudArmorLog: /bin/date 1393481454
+[ 4247.032305] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4280.943996] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 4281.550266] CloudArmorLog: /bin/date 1393481488
+[ 4281.550281] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4299.895440] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 4302.979207] CloudArmorLog: /sbin/iptables-save 1393481507
+[ 4302.992642] CloudArmorLog: /sbin/iptables-restore 1393481507
+[ 4303.813014] CloudArmorLog: /bin/date 1393481507
+[ 4303.813021] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4303.825022] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4303.840041] CloudArmorLog: /bin/date 1393481511
+[ 4303.840047] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4303.851113] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4303.970362] CloudArmorLog: /sbin/iptables-save 1393481511
+[ 4303.983233] CloudArmorLog: /sbin/iptables-restore 1393481511
+[ 4303.999380] CloudArmorLog: /bin/date 1393481511
+[ 4303.999386] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4304.010582] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 4304.325990] CloudArmorLog: /bin/date 1393481511
+[ 4304.325996] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4327.406179] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 4331.558436] CloudArmorLog: /sbin/iptables-save 1393481535
+[ 4331.572045] CloudArmorLog: /sbin/iptables-restore 1393481535
+[ 4332.514571] CloudArmorLog: /bin/date 1393481535
+[ 4332.514578] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4332.526483] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 4332.845896] CloudArmorLog: /bin/date 1393481540
+[ 4332.845901] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4332.857527] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4332.872257] CloudArmorLog: /bin/date 1393481540
+[ 4332.872263] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4332.883273] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 4332.897831] CloudArmorLog: /bin/date 1393481540
+[ 4332.897836] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 4332.908874] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 4333.219838] CloudArmorLog: /bin/date 1393481540
+[ 4333.219844] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2308.848716] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2310.604999] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2310.619902] CloudArmorLog: /bin/date 1393480840
+[ 2310.619908] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2314.515332] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2314.526862] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2314.541952] CloudArmorLog: /bin/date 1393480844
+[ 2314.541958] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2314.637337] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2316.557856] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2316.581283] CloudArmorLog: /bin/date 1393480846
+[ 2316.581289] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2321.017997] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2332.132437] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2334.029288] CloudArmorLog: /usr/bin/ssh 1393480862
+[ 2334.701449] CloudArmorLog: /bin/mv 1393480862
+[ 2334.711424] CloudArmorLog: /usr/bin/ssh 1393480862
+[ 2335.389095] CloudArmorLog: /usr/bin/qemu-img 1393480862
+[ 2335.477453] CloudArmorLog: /usr/bin/rsync 1393480862
+[ 2335.480556] CloudArmorLog: /usr/bin/ssh 1393480862
+[ 2336.196627] CloudArmorLog: /usr/bin/rsync 1393480862
+[ 2336.199661] CloudArmorLog: /usr/bin/ssh 1393480862
+[ 2337.966811] CloudArmorLog: /bin/rm 1393480862
+[ 2338.266116] CloudArmorLog: /bin/date 1393480862
+[ 2338.266119] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2353.001395] CloudArmorLog: ------------------------confirm_resize---------------------------------
+[ 2354.179540] CloudArmorLog: /bin/date 1393480882
+[ 2354.179547] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2593.471531] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2595.172688] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2595.187927] CloudArmorLog: /bin/date 1393481125
+[ 2595.187933] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2599.615779] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2616.711261] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2618.287869] CloudArmorLog: /usr/bin/ssh 1393481147
+[ 2618.958148] CloudArmorLog: /bin/mv 1393481147
+[ 2618.968188] CloudArmorLog: /usr/bin/ssh 1393481147
+[ 2619.640866] CloudArmorLog: /usr/bin/qemu-img 1393481147
+[ 2619.732319] CloudArmorLog: /usr/bin/rsync 1393481147
+[ 2619.735457] CloudArmorLog: /usr/bin/ssh 1393481147
+[ 2620.452774] CloudArmorLog: /usr/bin/rsync 1393481147
+[ 2620.455827] CloudArmorLog: /usr/bin/ssh 1393481147
+[ 2622.432900] CloudArmorLog: /bin/rm 1393481147
+[ 2622.783735] CloudArmorLog: /bin/date 1393481147
+[ 2622.783742] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2635.140924] CloudArmorLog: ------------------------confirm_resize---------------------------------
+[ 2636.227491] CloudArmorLog: /bin/date 1393481165
+[ 2636.227497] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2639.015446] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2647.608687] CloudArmorLog: /usr/bin/qemu-img 1393481169
+[ 2655.394229] CloudArmorLog: /usr/bin/qemu-img 1393481169
+[ 2655.440964] CloudArmorLog: /usr/bin/qemu-nbd 1393481169
+[ 2655.466066] CloudArmorLog: /sbin/kpartx 1393481169
+[ 2655.479369] CloudArmorLog: /bin/mount 1393481169
+[ 2655.511058] CloudArmorLog: /bin/readlink 1393481169
+[ 2655.522682] CloudArmorLog: /bin/mkdir 1393481169
+[ 2655.534082] CloudArmorLog: /bin/readlink 1393481169
+[ 2655.543353] CloudArmorLog: /bin/chown 1393481169
+[ 2655.553857] CloudArmorLog: /bin/readlink 1393481169
+[ 2655.563242] CloudArmorLog: /bin/chmod 1393481169
+[ 2655.573919] CloudArmorLog: /bin/readlink 1393481169
+[ 2655.583238] CloudArmorLog: /usr/bin/tee 1393481169
+[ 2655.593420] CloudArmorLog: /bin/readlink 1393481169
+[ 2655.602744] CloudArmorLog: /bin/chmod 1393481169
+[ 2655.612622] CloudArmorLog: /bin/readlink 1393481169
+[ 2655.622360] CloudArmorLog: /bin/readlink 1393481169
+[ 2655.632347] CloudArmorLog: /bin/umount 1393481169
+[ 2655.746936] CloudArmorLog: /sbin/kpartx 1393481169
+[ 2655.759108] CloudArmorLog: /usr/bin/qemu-nbd 1393481169
+[ 2656.037763] CloudArmorLog: /sbin/ip 1393481169
+[ 2656.048539] CloudArmorLog: /sbin/brctl 1393481169
+[ 2656.057938] CloudArmorLog: /sbin/ip 1393481169
+[ 2656.067549] CloudArmorLog: /sbin/ip 1393481169
+[ 2656.242827] CloudArmorLog: /sbin/iptables-save 1393481169
+[ 2656.256569] CloudArmorLog: /sbin/iptables-restore 1393481169
+[ 2657.765850] CloudArmorLog: /usr/bin/tee 1393481169
+[ 2658.279137] CloudArmorLog: /bin/date 1393481169
+[ 2658.279144] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2661.720286] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 2662.263071] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2662.277857] CloudArmorLog: /bin/date 1393481192
+[ 2662.277873] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2667.025999] CloudArmorLog: ------------------------finish_resize---------------------------------
+[ 2667.076734] CloudArmorLog: /bin/date 1393481197
+[ 2667.076741] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2669.233435] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2675.618507] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 2675.958038] CloudArmorLog: /sbin/iptables-save 1393481206
+[ 2675.972236] CloudArmorLog: /sbin/iptables-restore 1393481206
+[ 2677.302455] CloudArmorLog: /bin/date 1393481206
+[ 2677.302462] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2678.444892] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2693.009968] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2693.025133] CloudArmorLog: /bin/date 1393481223
+[ 2693.025138] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2699.651195] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2699.662930] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2699.678056] CloudArmorLog: /bin/date 1393481230
+[ 2699.678062] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2699.792595] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2701.808602] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2701.823808] CloudArmorLog: /bin/date 1393481232
+[ 2701.823814] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2706.772328] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2706.784575] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 2707.447863] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2708.210162] CloudArmorLog: /sbin/iptables-save 1393481237
+[ 2708.224218] CloudArmorLog: /sbin/iptables-restore 1393481237
+[ 2712.614559] CloudArmorLog: /bin/date 1393481237
+[ 2712.614566] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2712.626456] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2712.641296] CloudArmorLog: /bin/date 1393481243
+[ 2712.641302] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2713.686990] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2713.698751] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2713.713591] CloudArmorLog: /bin/date 1393481244
+[ 2713.713596] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2713.819157] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2716.525635] CloudArmorLog: /usr/bin/qemu-img 1393481244
+[ 2716.584796] CloudArmorLog: /usr/bin/qemu-img 1393481244
+[ 2716.611095] CloudArmorLog: /sbin/e2fsck 1393481244
+[ 2716.621855] CloudArmorLog: /sbin/resize2fs 1393481244
+[ 2716.639889] CloudArmorLog: /usr/bin/qemu-nbd 1393481244
+[ 2716.664418] CloudArmorLog: /sbin/kpartx 1393481244
+[ 2716.677047] CloudArmorLog: /usr/bin/qemu-nbd 1393481244
+[ 2716.953497] CloudArmorLog: /sbin/ip 1393481244
+[ 2716.964406] CloudArmorLog: /sbin/brctl 1393481244
+[ 2716.973965] CloudArmorLog: /sbin/ip 1393481244
+[ 2716.983759] CloudArmorLog: /sbin/ip 1393481244
+[ 2717.145501] CloudArmorLog: /sbin/iptables-save 1393481244
+[ 2717.159374] CloudArmorLog: /sbin/iptables-restore 1393481244
+[ 2718.824820] CloudArmorLog: /usr/bin/tee 1393481244
+[ 2719.343812] CloudArmorLog: /bin/date 1393481244
+[ 2719.343819] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2730.447549] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2732.061639] CloudArmorLog: /usr/bin/ssh 1393481260
+[ 2732.737032] CloudArmorLog: /bin/mv 1393481260
+[ 2732.747146] CloudArmorLog: /usr/bin/ssh 1393481260
+[ 2733.425476] CloudArmorLog: /usr/bin/qemu-img 1393481260
+[ 2733.448301] CloudArmorLog: /bin/rm 1393481260
+[ 2733.457659] CloudArmorLog: /bin/mv 1393481260
+[ 2733.467361] CloudArmorLog: /usr/bin/ssh 1393481260
+[ 2734.529664] CloudArmorLog: /bin/date 1393481260
+[ 2734.529671] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2738.680359] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 2739.004824] CloudArmorLog: /sbin/iptables-save 1393481269
+[ 2739.018601] CloudArmorLog: /sbin/iptables-restore 1393481269
+[ 2740.569448] CloudArmorLog: /bin/date 1393481269
+[ 2740.569454] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2741.400720] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2745.258475] CloudArmorLog: /bin/date 1393481271
+[ 2745.258482] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2745.386891] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2748.084423] CloudArmorLog: /usr/bin/qemu-img 1393481275
+[ 2748.136394] CloudArmorLog: /usr/bin/qemu-img 1393481275
+[ 2748.163488] CloudArmorLog: /sbin/e2fsck 1393481275
+[ 2748.174466] CloudArmorLog: /sbin/resize2fs 1393481275
+[ 2748.192407] CloudArmorLog: /usr/bin/qemu-nbd 1393481275
+[ 2748.217511] CloudArmorLog: /sbin/kpartx 1393481275
+[ 2748.230094] CloudArmorLog: /usr/bin/qemu-nbd 1393481275
+[ 2748.519621] CloudArmorLog: /sbin/ip 1393481275
+[ 2748.530476] CloudArmorLog: /sbin/brctl 1393481275
+[ 2748.540053] CloudArmorLog: /sbin/ip 1393481275
+[ 2748.549697] CloudArmorLog: /sbin/ip 1393481275
+[ 2748.707010] CloudArmorLog: /sbin/iptables-save 1393481275
+[ 2748.720799] CloudArmorLog: /sbin/iptables-restore 1393481275
+[ 2750.199851] CloudArmorLog: /usr/bin/tee 1393481275
+[ 2750.725490] CloudArmorLog: /bin/date 1393481275
+[ 2750.725497] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2764.291251] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 2764.902519] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2764.917094] CloudArmorLog: /bin/date 1393481295
+[ 2764.917109] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2770.097930] CloudArmorLog: ------------------------finish_resize---------------------------------
+[ 2770.144710] CloudArmorLog: /bin/date 1393481300
+[ 2770.144717] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2772.930183] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2778.056009] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 2778.478030] CloudArmorLog: /sbin/iptables-save 1393481308
+[ 2778.491894] CloudArmorLog: /sbin/iptables-restore 1393481308
+[ 2780.089389] CloudArmorLog: /bin/date 1393481308
+[ 2780.089396] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2780.808444] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2782.521648] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2782.536527] CloudArmorLog: /bin/date 1393481313
+[ 2782.536533] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2786.551375] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2786.562949] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2786.577781] CloudArmorLog: /bin/date 1393481317
+[ 2786.577787] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2786.677037] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2788.566223] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2788.583743] CloudArmorLog: /bin/date 1393481319
+[ 2788.583749] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2793.037490] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2804.062614] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2805.786653] CloudArmorLog: /usr/bin/ssh 1393481334
+[ 2806.456488] CloudArmorLog: /bin/mv 1393481334
+[ 2806.466569] CloudArmorLog: /usr/bin/ssh 1393481334
+[ 2807.140121] CloudArmorLog: /usr/bin/qemu-img 1393481334
+[ 2807.227147] CloudArmorLog: /usr/bin/rsync 1393481334
+[ 2807.230343] CloudArmorLog: /usr/bin/ssh 1393481334
+[ 2807.943365] CloudArmorLog: /usr/bin/rsync 1393481334
+[ 2807.946438] CloudArmorLog: /usr/bin/ssh 1393481334
+[ 2809.740592] CloudArmorLog: /bin/rm 1393481334
+[ 2810.055490] CloudArmorLog: /bin/date 1393481334
+[ 2810.055495] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2822.475515] CloudArmorLog: ------------------------confirm_resize---------------------------------
+[ 2823.642710] CloudArmorLog: /bin/date 1393481353
+[ 2823.642717] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2826.455232] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2829.161381] CloudArmorLog: /usr/bin/qemu-img 1393481357
+[ 2829.196333] CloudArmorLog: /usr/bin/qemu-nbd 1393481357
+[ 2829.221111] CloudArmorLog: /sbin/kpartx 1393481357
+[ 2829.234346] CloudArmorLog: /bin/mount 1393481357
+[ 2829.269579] CloudArmorLog: /bin/readlink 1393481357
+[ 2829.280302] CloudArmorLog: /bin/mkdir 1393481357
+[ 2829.292218] CloudArmorLog: /bin/readlink 1393481357
+[ 2829.301634] CloudArmorLog: /bin/chown 1393481357
+[ 2829.312175] CloudArmorLog: /bin/readlink 1393481357
+[ 2829.321446] CloudArmorLog: /bin/chmod 1393481357
+[ 2829.332100] CloudArmorLog: /bin/readlink 1393481357
+[ 2829.341385] CloudArmorLog: /usr/bin/tee 1393481357
+[ 2829.351514] CloudArmorLog: /bin/readlink 1393481357
+[ 2829.360820] CloudArmorLog: /bin/chmod 1393481357
+[ 2829.370674] CloudArmorLog: /bin/readlink 1393481357
+[ 2829.380382] CloudArmorLog: /bin/readlink 1393481357
+[ 2829.390344] CloudArmorLog: /bin/umount 1393481357
+[ 2829.502939] CloudArmorLog: /sbin/kpartx 1393481357
+[ 2829.515125] CloudArmorLog: /usr/bin/qemu-nbd 1393481357
+[ 2829.798414] CloudArmorLog: /sbin/ip 1393481357
+[ 2829.809411] CloudArmorLog: /sbin/brctl 1393481357
+[ 2829.819031] CloudArmorLog: /sbin/ip 1393481357
+[ 2829.828738] CloudArmorLog: /sbin/ip 1393481357
+[ 2829.991611] CloudArmorLog: /sbin/iptables-save 1393481357
+[ 2830.005455] CloudArmorLog: /sbin/iptables-restore 1393481357
+[ 2831.536775] CloudArmorLog: /usr/bin/tee 1393481357
+[ 2832.057732] CloudArmorLog: /bin/date 1393481357
+[ 2832.057739] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2849.219029] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 2849.745801] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2849.755003] CloudArmorLog: /bin/date 1393481380
+[ 2849.755017] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2854.065118] CloudArmorLog: ------------------------finish_resize---------------------------------
+[ 2854.109954] CloudArmorLog: /bin/date 1393481384
+[ 2854.109961] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2856.283694] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2863.061408] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 2863.411853] CloudArmorLog: /sbin/iptables-save 1393481393
+[ 2863.426151] CloudArmorLog: /sbin/iptables-restore 1393481393
+[ 2865.049798] CloudArmorLog: /bin/date 1393481393
+[ 2865.049805] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2865.982274] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2867.854187] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2867.869020] CloudArmorLog: /bin/date 1393481398
+[ 2867.869026] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2874.673964] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2874.685475] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2874.700570] CloudArmorLog: /bin/date 1393481405
+[ 2874.700575] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2874.826956] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2876.657434] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2876.672668] CloudArmorLog: /bin/date 1393481407
+[ 2876.672674] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2881.828647] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2888.739355] CloudArmorLog: ------------------------prep_resize---------------------------------
+[ 2889.316989] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2889.361056] CloudArmorLog: /bin/date 1393481420
+[ 2889.361066] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2891.999937] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2897.521664] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 2897.904545] CloudArmorLog: /sbin/iptables-save 1393481428
+[ 2897.919082] CloudArmorLog: /sbin/iptables-restore 1393481428
+[ 2899.019061] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2899.034372] CloudArmorLog: /bin/date 1393481429
+[ 2899.034378] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2900.401169] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2901.811504] CloudArmorLog: /bin/date 1393481431
+[ 2901.811511] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2901.823682] CloudArmorLog: ------------------------refresh_instance_security_rules---------------------------------
+[ 2901.838479] CloudArmorLog: /bin/date 1393481432
+[ 2901.838484] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2904.552150] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2904.679004] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2907.347352] CloudArmorLog: /usr/bin/qemu-img 1393481435
+[ 2907.399239] CloudArmorLog: /usr/bin/qemu-img 1393481435
+[ 2907.425693] CloudArmorLog: /sbin/e2fsck 1393481435
+[ 2907.436538] CloudArmorLog: /sbin/resize2fs 1393481435
+[ 2907.454660] CloudArmorLog: /usr/bin/qemu-nbd 1393481435
+[ 2907.479747] CloudArmorLog: /sbin/kpartx 1393481435
+[ 2907.492330] CloudArmorLog: /usr/bin/qemu-nbd 1393481435
+[ 2907.790615] CloudArmorLog: /sbin/ip 1393481435
+[ 2907.801468] CloudArmorLog: /sbin/brctl 1393481435
+[ 2907.810999] CloudArmorLog: /sbin/ip 1393481435
+[ 2907.820581] CloudArmorLog: /sbin/ip 1393481435
+[ 2907.991470] CloudArmorLog: /sbin/iptables-save 1393481435
+[ 2908.005306] CloudArmorLog: /sbin/iptables-restore 1393481435
+[ 2909.681854] CloudArmorLog: /usr/bin/tee 1393481435
+[ 2910.301019] CloudArmorLog: /bin/date 1393481435
+[ 2910.301026] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2923.647431] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2925.516507] CloudArmorLog: /usr/bin/ssh 1393481454
+[ 2926.195113] CloudArmorLog: /bin/mv 1393481454
+[ 2926.205331] CloudArmorLog: /usr/bin/ssh 1393481454
+[ 2926.885909] CloudArmorLog: /usr/bin/qemu-img 1393481454
+[ 2926.908988] CloudArmorLog: /bin/rm 1393481454
+[ 2926.918409] CloudArmorLog: /bin/mv 1393481454
+[ 2926.928345] CloudArmorLog: /usr/bin/ssh 1393481454
+[ 2927.982541] CloudArmorLog: /bin/date 1393481454
+[ 2927.982547] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2931.862477] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 2932.203357] CloudArmorLog: /sbin/iptables-save 1393481462
+[ 2932.217594] CloudArmorLog: /sbin/iptables-restore 1393481462
+[ 2933.818595] CloudArmorLog: /bin/date 1393481462
+[ 2933.818601] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2934.821728] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2938.780456] CloudArmorLog: /bin/date 1393481465
+[ 2938.780463] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2938.903617] CloudArmorLog: ------------------------run_instance---------------------------------
+[ 2941.567164] CloudArmorLog: /usr/bin/qemu-img 1393481469
+[ 2941.619252] CloudArmorLog: /usr/bin/qemu-img 1393481469
+[ 2941.645621] CloudArmorLog: /sbin/e2fsck 1393481469
+[ 2941.656588] CloudArmorLog: /sbin/resize2fs 1393481469
+[ 2941.674631] CloudArmorLog: /usr/bin/qemu-nbd 1393481469
+[ 2941.699651] CloudArmorLog: /sbin/kpartx 1393481469
+[ 2941.712515] CloudArmorLog: /usr/bin/qemu-nbd 1393481469
+[ 2941.999180] CloudArmorLog: /sbin/ip 1393481469
+[ 2942.010021] CloudArmorLog: /sbin/brctl 1393481469
+[ 2942.019683] CloudArmorLog: /sbin/ip 1393481469
+[ 2942.029344] CloudArmorLog: /sbin/ip 1393481469
+[ 2942.193460] CloudArmorLog: /sbin/iptables-save 1393481469
+[ 2942.207436] CloudArmorLog: /sbin/iptables-restore 1393481469
+[ 2943.681410] CloudArmorLog: /usr/bin/tee 1393481469
+[ 2944.192482] CloudArmorLog: /bin/date 1393481469
+[ 2944.192489] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2958.167838] CloudArmorLog: ------------------------resize_instance---------------------------------
+[ 2959.626706] CloudArmorLog: /usr/bin/ssh 1393481489
+[ 2960.305214] CloudArmorLog: /bin/mv 1393481489
+[ 2960.315476] CloudArmorLog: /usr/bin/ssh 1393481489
+[ 2960.989719] CloudArmorLog: /usr/bin/qemu-img 1393481489
+[ 2961.012631] CloudArmorLog: /bin/rm 1393481489
+[ 2961.022283] CloudArmorLog: /bin/mv 1393481489
+[ 2961.032180] CloudArmorLog: /usr/bin/ssh 1393481489
+[ 2962.087625] CloudArmorLog: /bin/date 1393481489
+[ 2962.087631] CloudArmorLog: --------------------------------END-----------------------------------------
+[ 2966.333224] CloudArmorLog: ------------------------terminate_instance---------------------------------
+[ 2966.680762] CloudArmorLog: /sbin/iptables-save 1393481497
+[ 2966.695066] CloudArmorLog: /sbin/iptables-restore 1393481497
+[ 2968.232693] CloudArmorLog: /bin/date 1393481497
+[ 2968.232700] CloudArmorLog: --------------------------------END-----------------------------------------

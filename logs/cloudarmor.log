@@ -1,0 +1,111 @@
+[    0.008000] CloudArmor:  Initializing.
+[    0.341855] CloudArmorFS:  Done.
+[   80.004697] CloudArmor:nova-compute PID: 1309 is running
+[   80.478950] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(1310), parent(1309)
+[   80.478956] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[   80.486864] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(1312), parent(1309)
+[   80.486870] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  105.813679] CloudArmor:nova-compute PID: 1335 is running
+[  106.264921] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(1336), parent(1335)
+[  106.264927] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  106.272681] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(1338), parent(1335)
+[  106.272688] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  133.926377] CloudArmor:nova-compute PID: 1467 is running
+[  134.401926] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(1579), parent(1467)
+[  134.401933] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  134.410540] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(1581), parent(1467)
+[  134.410546] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  159.085425] CloudArmor:nova-compute PID: 1811 is running
+[  159.541478] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(1812), parent(1811)
+[  159.541485] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  159.549805] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(1814), parent(1811)
+[  159.549811] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  176.620097] CloudArmor:nova-compute PID: 2007 is running
+[  177.070646] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(2008), parent(2007)
+[  177.070653] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  177.079574] CloudArmor: Executable /bin/sh(/bin/sh) executed PID(2010), parent(2007)
+[  177.079579] CloudArmor: sh -c /sbin/ldconfig -p 2>/dev/null 
+[  180.076095] CloudArmor: connecting to libvirt
+[  262.682168] CloudArmor: connecting to libvirt
+[  282.078134] CloudArmor: connecting to libvirt
+[  347.914461] CloudArmor: connecting to libvirt
+[  408.922680] CloudArmor: Executable /usr/bin/env(/usr/bin/env) executed PID(2066), parent(2007)
+[  408.922687] CloudArmor: env LC_ALL=C LANG=C qemu-img info /var/lib/nova/instances/_base/4acfb815d9beadfc76b1e453590e2b94f743925f 
+[  409.005938] CloudArmor: Executable /usr/bin/qemu-img(/usr/bin/qemu-img) executed PID(2068), parent(2007)
+[  409.005946] CloudArmor: qemu-img create -f qcow2 -o backing_file=/var/lib/nova/instances/_base/4acfb815d9beadfc76b1e453590e2b94f743925f /var/lib/nova/instances/125b8f78-c50f-4b36-b81a-2123d2756291/disk 
+[  409.247172] CloudArmor: Executable /usr/bin/qemu-nbd(/usr/bin/qemu-nbd) executed PID(2070), parent(2007)
+[  409.247180] CloudArmor: qemu-nbd -c /dev/nbd0 /var/lib/nova/instances/125b8f78-c50f-4b36-b81a-2123d2756291/disk 
+[  409.338285] CloudArmor: Executable /sbin/kpartx(/sbin/kpartx) executed PID(2079), parent(2007)
+[  409.338289] CloudArmor: kpartx -a /dev/nbd0 
+[  409.391710] CloudArmor: Executable /bin/mount(/bin/mount) executed PID(2083), parent(2007)
+[  409.391717] CloudArmor: mount /dev/mapper/nbd0p1 /tmp/openstack-vfs-localfsLPQ_Od 
+[  409.564821] CloudArmor: Executable /bin/readlink(/bin/readlink) executed PID(2103), parent(2007)
+[  409.564828] CloudArmor: readlink -nm /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh 
+[  409.628537] CloudArmor: Executable /bin/mkdir(/bin/mkdir) executed PID(2104), parent(2007)
+[  409.628545] CloudArmor: mkdir -p /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh 
+[  409.795376] CloudArmor: Executable /bin/readlink(/bin/readlink) executed PID(2105), parent(2007)
+[  409.795383] CloudArmor: readlink -nm /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh 
+[  409.833126] CloudArmor: Executable /bin/chown(/bin/chown) executed PID(2106), parent(2007)
+[  409.833133] CloudArmor: chown root:root /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh 
+[  409.873758] CloudArmor: Executable /bin/readlink(/bin/readlink) executed PID(2107), parent(2007)
+[  409.873761] CloudArmor: readlink -nm /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh 
+[  409.893515] CloudArmor: Executable /bin/chmod(/bin/chmod) executed PID(2108), parent(2007)
+[  409.893518] CloudArmor: chmod 700 /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh 
+[  409.929310] CloudArmor: Executable /bin/readlink(/bin/readlink) executed PID(2109), parent(2007)
+[  409.929313] CloudArmor: readlink -nm /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh/authorized_keys 
+[  409.953675] CloudArmor: Executable /usr/bin/tee(/usr/bin/tee) executed PID(2110), parent(2007)
+[  409.953679] CloudArmor: tee -a /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh/authorized_keys 
+[  409.984927] CloudArmor: Executable /bin/readlink(/bin/readlink) executed PID(2111), parent(2007)
+[  409.984931] CloudArmor: readlink -nm /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh/authorized_keys 
+[  410.006790] CloudArmor: Executable /bin/chmod(/bin/chmod) executed PID(2112), parent(2007)
+[  410.006793] CloudArmor: chmod 600 /tmp/openstack-vfs-localfsLPQ_Od/root/.ssh/authorized_keys 
+[  410.032610] CloudArmor: Executable /bin/readlink(/bin/readlink) executed PID(2113), parent(2007)
+[  410.032613] CloudArmor: readlink -nm /tmp/openstack-vfs-localfsLPQ_Od/etc/selinux 
+[  410.059142] CloudArmor: Executable /bin/readlink(/bin/readlink) executed PID(2114), parent(2007)
+[  410.059146] CloudArmor: readlink -e /tmp/openstack-vfs-localfsLPQ_Od/etc/selinux 
+[  410.088216] CloudArmor: Executable /bin/umount(/bin/umount) executed PID(2115), parent(2007)
+[  410.088223] CloudArmor: umount /dev/mapper/nbd0p1 
+[  410.364472] CloudArmor: Executable /sbin/kpartx(/sbin/kpartx) executed PID(2117), parent(2007)
+[  410.364476] CloudArmor: kpartx -d /dev/nbd0 
+[  410.394233] CloudArmor: Executable /usr/bin/qemu-nbd(/usr/bin/qemu-nbd) executed PID(2130), parent(2007)
+[  410.394240] CloudArmor: qemu-nbd -d /dev/nbd0 
+[  411.988152] CloudArmor: Executable /sbin/ip(/sbin/ip) executed PID(2140), parent(2007)
+[  411.988159] CloudArmor: ip link show dev br100 
+[  412.038219] CloudArmor: Executable /sbin/brctl(/sbin/brctl) executed PID(2145), parent(2007)
+[  412.038223] CloudArmor: brctl addbr br100 
+[  412.072149] CloudArmor: Executable /sbin/brctl(/sbin/brctl) executed PID(2171), parent(2007)
+[  412.072152] CloudArmor: brctl setfd br100 0 
+[  412.093161] CloudArmor: Executable /sbin/brctl(/sbin/brctl) executed PID(2172), parent(2007)
+[  412.093164] CloudArmor: brctl stp br100 off 
+[  412.112984] CloudArmor: Executable /sbin/ip(/sbin/ip) executed PID(2173), parent(2007)
+[  412.112987] CloudArmor: ip link set br100 up 
+[  412.164499] CloudArmor: Executable /sbin/brctl(/sbin/brctl) executed PID(2174), parent(2007)
+[  412.164502] CloudArmor: brctl addif br100 eth1 
+[  412.201486] CloudArmor: Executable /sbin/ip(/sbin/ip) executed PID(2175), parent(2007)
+[  412.201489] CloudArmor: ip route show dev eth1 
+[  412.223687] CloudArmor: Executable /sbin/ip(/sbin/ip) executed PID(2176), parent(2007)
+[  412.223691] CloudArmor: ip addr show dev eth1 scope global 
+[  412.620476] CloudArmor: Executable /sbin/iptables-save(/sbin/iptables-save) executed PID(2177), parent(2007)
+[  412.620483] CloudArmor: iptables-save -c 
+[  412.660694] CloudArmor: Executable /sbin/iptables-restore(/sbin/iptables-restore) executed PID(2178), parent(2007)
+[  412.660701] CloudArmor: iptables-restore -c 
+[  413.313358] CloudArmor: Executable /sbin/iptables-save(/sbin/iptables-save) executed PID(2179), parent(2007)
+[  413.313366] CloudArmor: iptables-save -c 
+[  413.354714] CloudArmor: Executable /sbin/iptables-restore(/sbin/iptables-restore) executed PID(2180), parent(2007)
+[  413.354721] CloudArmor: iptables-restore -c 
+[  413.485566] CloudArmor: Executable /sbin/iptables-save(/sbin/iptables-save) executed PID(2181), parent(2007)
+[  413.485573] CloudArmor: iptables-save -c 
+[  413.524830] CloudArmor: Executable /sbin/iptables-restore(/sbin/iptables-restore) executed PID(2182), parent(2007)
+[  413.524837] CloudArmor: iptables-restore -c 
+[  415.330989] CloudArmor: Executable /usr/bin/tee(/usr/bin/tee) executed PID(2365), parent(2007)
+[  415.330996] CloudArmor: tee /sys/class/net/vnet0/brport/hairpin_mode 
+[  416.429274] CloudArmor: Executable /sbin/iptables-save(/sbin/iptables-save) executed PID(2366), parent(2007)
+[  416.429280] CloudArmor: iptables-save -c 
+[  416.457264] CloudArmor: Executable /sbin/iptables-restore(/sbin/iptables-restore) executed PID(2367), parent(2007)
+[  416.457271] CloudArmor: iptables-restore -c 
+[  426.090982] CloudArmor: connecting to libvirt
+[  450.706476] CloudArmor: Executable /usr/bin/env(/usr/bin/env) executed PID(2426), parent(2007)
+[  450.706480] CloudArmor: env LC_ALL=C LANG=C qemu-img info /var/lib/nova/instances/125b8f78-c50f-4b36-b81a-2123d2756291/disk 
+[  450.744159] CloudArmor: Executable /usr/bin/env(/usr/bin/env) executed PID(2428), parent(2007)
+[  450.744163] CloudArmor: env LC_ALL=C LANG=C qemu-img info /var/lib/nova/instances/125b8f78-c50f-4b36-b81a-2123d2756291/disk 
+[  486.593278] CloudArmor: connecting to libvirt

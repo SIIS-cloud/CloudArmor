@@ -1,0 +1,8 @@
+0 [label="/bin/chown"];
+1 [label="/bin/date"];
+2 [label="TERMINAL",shape=diamond];
+3 [label="INITIAL",shape=box];
+0->1 [label="1.00", weight="1.00",color=black];
+1->2 [label="1.00", weight="1.00",color=black];
+3->0 [label="1.00", weight="1.00",color=black];
+3->1 [label="1.00", weight="1.00",color=black];
